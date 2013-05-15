@@ -1,4 +1,4 @@
 debuggify
 =========
 
-Report issues and feature request over here
+Report issues and feature request for https://www.debuggify.net/
